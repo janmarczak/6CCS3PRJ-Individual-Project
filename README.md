@@ -2,6 +2,7 @@
 
 This is a README for an Undergraduate Individual Project **'A thorough attempt to enhance fake news detection through unbiased dataset, explainability and BERT-based models.'**
 
+
 ## Folder Structure
 
 The 'k19029774_marczak_jan_code' folder contains the 4 main components of this project, put in separate folders: 'Google_Scraper', 'Datasets', 'Models' and 'Website'. 
@@ -66,8 +67,14 @@ Or executed individually by:
 
 
 ## Streamlit Website
-To run the website:
 
+In order to run the website, the model needs to be downloaded first. This can be done from this link:
+
+https://drive.google.com/file/d/15Y5kLf3T586_iO3vzWLIWcZ4WyNPa6_M/view?usp=sharing
+
+**In order for the website to work put the downloaded 'roberta-base.pt' file inside Website/model directory!**
+
+Next to run the website:
 1. Navigate to 'Website' folder.
 2. While having an active environment run ```streamlit run src/app.py```
 3. A localhost url will appear in terminal which can be copy-pasted into an internet browser

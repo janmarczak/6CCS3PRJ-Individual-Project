@@ -1,6 +1,6 @@
 # 6CCS3PRJ Individual Project by Jan Marczak
 
-This is a README for an Undergraduate Individual Project **'A thorough attempt to enhance fake news detection through unbiased dataset, explainability and BERT-based models.'**
+This is a README for an Undergraduate Individual Project **'Enhancing Fake News Detection With Unbiased Dataset, Explainability and BERT-based Models.'**
 
 
 ## Folder Structure
